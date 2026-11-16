@@ -1,6 +1,7 @@
 # sc8280xp-resolute-test
 
 [![Update packages](https://github.com/radxa-repo/sc8280xp-resolute-test/actions/workflows/update.yaml/badge.svg)](https://github.com/radxa-repo/sc8280xp-resolute-test/actions/workflows/update.yaml)
+[![Publish packages](https://github.com/radxa-repo/sc8280xp-resolute-test/actions/workflows/build.yaml/badge.svg)](https://github.com/radxa-repo/sc8280xp-resolute-test/actions/workflows/build.yaml)
 
 ## Content
 
